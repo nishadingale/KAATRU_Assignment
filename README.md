@@ -6,10 +6,12 @@ Develop a model to find the variables that are significant in the demand for sha
 Outcome:
 The variables that are significant in predicting the demand for shared bikes (at least 3). "cnt" is the dependant variable.
 
-variable 1 - "registered" - Correlation Coefficient (0.945411)
-variable 2 - "casual"     - Correlation Coefficient (0.672123)
-variable 3 - "temp"       - Correlation Coefficient (0.627044)
-variable 4 - "season"     - Correlation Coefficient (0.404584)
+| Variable      | Correlation Coefficient|
+| ------------- |:----------------------:|
+| "registered"  | 0.945411               |
+| "casual"      | 0.672123               |
+| "temp"        | 0.627044               |
+| "season"      | 0.404584               |
 
 
 
